@@ -18,7 +18,7 @@ Comments / suggestions / feature ideas are welcome on this list, and please
 use it to communicate with us (in addition to GitHub issues).
 
 For non-public matters that you'd like to discuss directly with the Google Research Football team,
-please use google-research-football@google.com.
+please use google-research-football@google.com. Danke
 
 ## Installation
 Currently we're supporting only Linux and Python3.
